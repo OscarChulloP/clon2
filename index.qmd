@@ -1,23 +1,17 @@
 ---
-title: La Palma Earthquakes
+title: La fuente de la estadistica espacial
 author:
-  - name: Steve Purves
+  - name: Oscar Chullo Puclla
     orcid: 0000-0002-0760-5497
     corresponding: true
-    email: steve@curvenote.com
+    email: oscarchullop@gmail.com
     roles:
       - Investigation
       - Project administration
       - Software
       - Visualization
     affiliations:
-      - Curvenote
-  - name: Rowan Cockett
-    orcid: 0000-0002-7859-8394
-    corresponding: false
-    roles: []
-    affiliations:
-      - Curvenote
+      - Matemático - Estadístico
 keywords:
   - La Palma
   - Earthquakes
